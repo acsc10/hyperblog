@@ -8,8 +8,18 @@ body{
 }
 
 .container{
-    background-color: gray;
-    border: black;
-    border-radius: 2px;
     
+   
+    
+    border-color: black;
+    
+    border-top-color: #CC0000;
+    border-right-color: blue;
+    border-bottom-color: #00FF00;
+    border-left-color: #CCC;
+}
+
+
+#cabecera{
+  background-color: blue;
 }
